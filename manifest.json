@@ -1,0 +1,15 @@
+{
+  "short_name": "Minuette",
+  "name": "Minuette Cakes",
+  "icons": [
+    {
+      "src": "icons/circle-logo.jpeg",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
